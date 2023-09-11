@@ -4,6 +4,10 @@ SGE - Sistema Gestão Educacional (Em desenvolvimento)
 
 Um sistema feito em Angular e Spring (API REST), que tem como objetivo gerenciar as notas dos alunos matriculados em uma turma. 
 
+# Endpoints
+  
+  <li><a href="http://localhost:8080/swagger-ui/index.html">Docs -> http://localhost:8080/swagger-ui/index.html</a></li>
+
 # Entidades
 
 ### Pessoa
@@ -39,4 +43,7 @@ Média Aritmética  ≤ 6 ? Reprovado
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a> <br/>
 
-  
+  <a href="https://springdoc.org/">
+    <img src="https://img.shields.io/badge/Swagger%20Ui-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+  </a> <br/>
+
